@@ -1,0 +1,8002 @@
+
+Using parameters from /home/barbier/Desktop/Recup/dataset/myPotentials//parameters.log
+
+Now processing ./3DRobot_set/2J1VA/decoy11_161.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.56359
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_68.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.76543
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_57.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.4963
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5625
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy9_137.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.5532
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_144.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.4948
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.8593
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_38.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.6169
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_151.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 28.9062
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy3_40.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.23782
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_19.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.87374
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_82.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.83441
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_110.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.9288
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy17_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 27.9669
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.09904
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy54_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 28.9874
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.64017
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.85634
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_25.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.4131
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.063
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy61_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.4077
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_75.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.85908
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.0894949
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_130.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.2468
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_119.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.1026
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.8002
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_133.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.27897
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy9_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.53461
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_169.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.3042
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy61_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.8921
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy17_115.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.99574
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy49_90.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 54.5875
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.12877
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_116.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.1122
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_42.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.0934
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy19_155.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.2746
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_72.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 36.6978
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_153.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.95113
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_85.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.9392
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_76.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.62307
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_89.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.3894
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.4508
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.7926
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_67.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.30087
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.70152
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_17.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.348743
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_95.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.53194
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_32.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.27217
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_16.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.2541
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_37.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.5194
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_123.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.9154
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy54_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 27.2278
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_72.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.0015
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_6.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.36266
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.3797
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy17_32.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.9651
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_105.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.11727
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_45.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.111
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -13.3407
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.22402
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_89.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 39.5163
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_16.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.2208
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy54_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.9101
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_4.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 26.0939
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.33407
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_155.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.9234
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_164.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.5494
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_85.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.146405
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_43.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -10.1605
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_90.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.1124
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_95.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.07132
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy43_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.2179
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.1979
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.2965
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_66.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.1688
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_51.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.8871
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_171.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.6288
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.1933
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.51615
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_6.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.2214
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.3766
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_71.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.19682
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_12.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.4861
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.8238
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_43.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.5438
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_71.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.23421
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.2177
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_176.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.22803
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.0925
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/native.pdb
+
+Chain(s) that will be processed: A 
+
+Pseudo-energy = -16.4253
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_17.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.1481
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_112.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.0563
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_62.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.4475
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_74.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.24353
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_57.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.97017
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.537
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy50_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 30.0809
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.4788
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.84442
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.74624
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.1397
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_145.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.57848
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_107.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.2631
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_68.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.7584
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_95.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.0729
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.5573
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy50_73.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.4177
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy46_107.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 28.6856
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.7067
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy0_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.49323
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_47.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.9005
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.5618
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_20.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.3031
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_152.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.45171
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_86.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.36769
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.6752
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_19.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.2747
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_26.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.8754
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6559
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy30_117.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 39.6004
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_148.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.54261
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_73.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.809
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.05681
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_166.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.2538
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_29.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.9122
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.55664
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_132.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.9597
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.00618
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 27.0836
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_38.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.04857
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.30924
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_115.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.297
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.097
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy63_60.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 30.5833
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_61.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.84859
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_23.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.67756
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.03518
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_37.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.5351
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_23.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.09755
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_140.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.44978
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.15178
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_75.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.923
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_6.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.46483
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.752455
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_45.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5996
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_122.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6779
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.17252
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.49
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_59.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.55103
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_117.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.352351
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 31.7784
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_167.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.8692
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_168.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 34.0018
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 34.0372
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_48.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 30.9737
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.47852
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.13276
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_35.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.29119
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy61_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.7157
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_108.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.95164
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.9653
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.88039
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.0646
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_73.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.9503
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_24.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.28488
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_12.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.11301
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.552641
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.44793
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_36.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.1704
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.3568
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_129.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.75702
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_39.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 33.7174
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_84.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.59997
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.87373
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_159.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.6491
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_54.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.30713
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_6.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.10801
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.09664
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.70912
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.53113
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.176847
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.1101
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy59_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 35.5593
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.58326
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_85.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.1826
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_73.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.7634
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 29.6764
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.47358
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.5941
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy17_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.9119
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_162.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.7012
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.2342
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_177.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.0917
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_158.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.9197
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy5_37.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.94065
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.23013
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_18.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.16759
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_125.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.9165
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.22414
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_29.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.83727
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy59_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.2256
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.4842
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_50.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.0321
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_48.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.109684
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_172.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 30.4223
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_71.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.1053
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_50.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.9111
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_81.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.63789
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_81.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.2258
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy52_105.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.7511
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_4.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.30271
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_90.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5365
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_16.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.8081
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_86.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.11129
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy56_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.8027
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_111.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.40865
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_67.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.15623
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.946347
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_28.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.5614
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_170.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.3886
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.20141
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.680753
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy58_46.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.6333
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_4.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.18253
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.63999
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_87.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.17296
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy43_47.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.2777
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy37_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.35321
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy48_46.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 38.8122
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.28538
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_76.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.24749
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_25.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.33072
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_60.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6301
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_81.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.17856
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy46_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.5111
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.0382
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.8944
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_87.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.20956
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_41.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.3149
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_157.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.6024
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_29.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.96702
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_147.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.14276
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.99505
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 28.1887
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_72.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.5745
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_109.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.7321
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_54.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.3426
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_51.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.6798
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.2414
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_6.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 37.1526
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.9359
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_26.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.999
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_136.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.92943
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_43.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.0975
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.91617
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_134.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.5654
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_29.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.54646
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_104.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.3114
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy43_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.476
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy17_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.6883
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_20.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.4418
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_62.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.90985
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.87314
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy54_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.2122
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.2949
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_89.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.1187
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy43_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.8815
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy54_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.0044
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.31333
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy61_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.5503
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy17_116.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.2338
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy34_64.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 40.9672
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.333
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy55_84.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.989
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy38_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 27.6493
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy37_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.4269
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_78.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.8672
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_150.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.5346
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy25_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.7713
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy61_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.4798
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy34_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.0617
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_113.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5375
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_19.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.9042
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy4_155.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.83498
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_69.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.97374
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_24.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.69496
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.6694
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_54.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.21555
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.3458
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_64.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.351894
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.613795
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy1_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.93788
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy2_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.2161
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_83.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.59458
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.38426
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.2917
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy7_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.5891
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy20_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.94624
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy63_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 28.1759
+Done
+
+
+Now processing ./3DRobot_set/2J1VA/decoy11_121.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.7612
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_162.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.94
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.5125
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_161.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.33415
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_69.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.354
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.01262
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.53188
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.2814
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.57856
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_57.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.34803
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_74.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.17269
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_153.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.2531
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy21_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.24672
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.92388
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_59.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.6239
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy9_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.11152
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_34.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.7424
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy37_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.0504
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_145.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.1683
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_119.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.6855
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.4054
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_75.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.984772
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_132.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.80394
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_156.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.12
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_133.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.01087
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_169.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.66632
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_110.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.1594
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.7348
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.70301
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_146.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.88515
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_116.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.4361
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy37_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.15716
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy45_151.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.5483
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_74.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.54982
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_155.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.78548
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_72.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.4618
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.0452
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_25.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.0547
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_139.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.5487
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_123.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.66452
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_28.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -10.2586
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_17.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.82939
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.93923
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.11072
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.3139
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_30.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.34633
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_49.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.78929
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.3291
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy10_99.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.8454
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.64853
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.12614
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_143.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.261974
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy28_41.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.82481
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_16.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -11.1729
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.1154
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_157.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.8473
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.15793
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_164.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.53849
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.9844
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.5545
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy2_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.78471
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_67.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.01212
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.2914
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_23.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.24291
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.15839
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_87.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.5864
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_60.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.12507
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.4115
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_38.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.36089
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.72976
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy6_89.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.87307
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_32.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.73716
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_49.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.49593
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_49.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.57134
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy45_145.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.2454
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_137.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.5061
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_45.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.4128
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_171.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.70733
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.7148
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_12.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.01219
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_136.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.50416
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy59_54.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.91839
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy47_135.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.041
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.2574
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_42.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.98538
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/native.pdb
+
+Chain(s) that will be processed: A 
+
+Pseudo-energy = -12.8997
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_109.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.7594
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.35567
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_66.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.10251
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy45_155.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.7879
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_167.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.94005
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.8714
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy57_121.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.7367
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy9_167.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.4937
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.00187
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_163.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.72547
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy0_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.63325
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.0486
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_20.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.0274
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.8575
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.4349
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.95407
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_86.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.78354
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_25.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.01207
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_23.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.85545
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy52_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.66566
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.43343
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_110.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.2855
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy9_120.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.22377
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_69.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.74532
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy45_167.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.6643
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.0507
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_163.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.3158
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_36.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.52501
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_29.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.9143
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_128.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.5614
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.47963
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_76.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.3447
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy26_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.4903
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_140.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.285
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy6_86.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.86678
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.02186
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_20.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.79645
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_150.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.863978
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy2_72.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.0101
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.2957
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_156.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.55382
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_69.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.62915
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.34619
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy13_81.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.76285
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_142.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.94067
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy9_128.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.29084
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_17.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.62088
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_37.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.2464
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy6_107.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.9717
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.4123
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_47.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.1778
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_89.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.7589
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy6_85.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.789
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_73.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.07753
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_151.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.2194
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_113.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.23427
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.05417
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_139.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.48117
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_152.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.779
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_127.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.5246
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.1202
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_105.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.56999
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.17899
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_74.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -10.8568
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_156.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.1425
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.9273
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_130.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.4549
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_159.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.7339
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_66.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.36593
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_24.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.9
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_34.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.5644
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.064
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy27_35.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.77052
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.6246
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_164.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.9255
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_28.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.0567
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_114.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.77801
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_147.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.63343
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.37089
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_46.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.84797
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy6_263.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.3931
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.02938
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.22416
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_75.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.06003
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -10.069
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_127.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.1846
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.89115
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.51141
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_87.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.38569
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.4096
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_153.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.86584
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy22_171.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5822
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy10_106.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.1554
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_159.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.65243
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 26.0959
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_114.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.21388
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_89.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.16717
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_65.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.28049
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_36.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.96682
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_86.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.11151
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.94909
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy4_47.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.08378
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_153.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.98692
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy58_151.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.0862
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy2_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.64218
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_39.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.10259
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy21_138.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.14989
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_48.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.52751
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy49_128.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.2137
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_18.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.72317
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_142.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.3866
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_86.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.71804
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_34.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.56
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_158.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.6444
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_134.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.80514
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_119.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.26628
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.1821
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_48.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.58564
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_71.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.586
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy6_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.718
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_104.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.84679
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_25.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.0379
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy21_158.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.1913
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy49_143.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.9337
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_160.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.4296
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy58_145.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.3823
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_45.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.96396
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_48.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6234
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy57_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.6024
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_78.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.6448
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_37.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.31571
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy34_139.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.45499
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_152.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.6903
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_84.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.8765
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_38.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.3496
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy57_120.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.755
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.5454
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_170.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.1981
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_19.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.41922
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.09727
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy16_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.2231
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy13_67.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.89106
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_4.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.62733
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.38138
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_82.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.6545
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy12_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.2256
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_71.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.42817
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_128.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.3203
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_151.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.5864
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy51_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.1846
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_40.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.37293
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_49.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.12006
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_117.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.77475
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_46.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.3698
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy2_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.47096
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.58344
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy47_132.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.5325
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_60.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.906418
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy36_4.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.0216
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy8_54.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.95552
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy37_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.6897
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_90.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.9372
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_118.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6183
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_77.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.28951
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_147.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.5168
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.50779
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_120.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.2702
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy6_243.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.47791
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_50.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.6665
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.80301
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy21_105.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.99032
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_109.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.5238
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_51.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -11.3008
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy15_41.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.5903
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy14_87.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.9186
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_64.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.9757
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.24783
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_136.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.65189
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_134.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.2646
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_104.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5143
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_149.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.61662
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_113.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.80818
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_20.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.34499
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_83.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.56767
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_108.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.24072
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy49_131.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.7413
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_26.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.2895
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy17_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.47466
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy8_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.86551
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy27_141.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.3681
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy45_150.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.7184
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_22.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.22912
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_138.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.8898
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.4585
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.83237
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_62.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.01162
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy51_50.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.3101
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_24.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -11.483
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_156.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.90594
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_54.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.42274
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_117.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.47168
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -13.3101
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.5995
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.3773
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_17.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.443836
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy5_84.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.47422
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.28594
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy18_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.12345
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy11_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.31555
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_105.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.519709
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy3_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.28405
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_147.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.3107
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy46_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.5165
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.19211
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy24_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 27.0139
+Done
+
+
+Now processing ./3DRobot_set/3U7ZA/decoy1_90.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -10.0728
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.99164
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_20.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.69689
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -10.5403
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy24_108.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.77355
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_137.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.94092
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6353
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.00167518
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_114.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.36433
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.4648
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.4571
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_112.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.9045
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.89574
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_57.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.19181
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_137.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.63572
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.0297
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_107.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.88076
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_83.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.83019
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.04513
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_26.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.3454
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_148.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.21897
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.25446
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_35.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.1014
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_151.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.52217
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_169.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.84619
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.50146
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_75.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.0463739
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.42955
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_110.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.0223
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy26_120.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.21945
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.14243
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.50622
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.0541379
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy60_43.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.77144
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_105.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.3016
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_35.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.19995
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy23_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.77777
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.3335
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.10932
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_82.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.7388
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_108.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.5666
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_67.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.81539
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.03184
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_17.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.68821
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_95.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.36734
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy61_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.4483
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_30.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.7627
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_40.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.25476
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_117.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.40198
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_12.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.25215
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.02546
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.78909
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.46872
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.0772
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_47.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.00278
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.4204
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy7_127.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.8703
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.40788
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy39_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.1825
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.40447
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_19.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.87127
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_127.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.98741
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_67.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.256371
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_85.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.83621
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy60_41.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.3877
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.5122
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy7_48.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.94906
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.36238
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_83.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.24978
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.59175
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_89.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.149677
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_74.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.7767
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.8531
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_64.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.60529
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_12.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.84115
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.35841
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.98877
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_92.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.4742
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.1862
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_85.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.90823
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.1735
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_72.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.60325
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_114.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.5315
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.75812
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_36.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.21607
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/native.pdb
+
+Chain(s) that will be processed: A 
+
+Pseudo-energy = -4.07177
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy41_107.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.1871
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_108.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.07805
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.06685
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_110.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.85299
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_109.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.12532
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.27287
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.2044
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_75.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.07397
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_117.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.21549
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.83339
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_84.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.633117
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy62_60.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.6176
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy23_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.0116
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_123.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.2489
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.49283
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy0_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.88529
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_32.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.05992
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy26_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.1985
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy26_108.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.195907
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_119.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.02442
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_87.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.17948
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.58239
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_124.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.10828
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.1298
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_125.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.3948
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_75.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.22511
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.57354
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_122.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.31532
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_158.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.77917
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_144.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.362159
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy3_118.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.14939
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_51.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.650438
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_156.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.43255
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_120.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.6039
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.42625
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_113.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.49329
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy26_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 27.4071
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_95.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.9356
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.71554
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.73124
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.0505
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.829147
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_142.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.53369
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.1876
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy58_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.6807
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.8413
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy11_103.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.3847
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_121.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.9884
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_146.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.82895
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_51.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.90992
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_39.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.95494
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.65966
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_134.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.239988
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_16.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.41927
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.72399
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.2593
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_81.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.1889
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.3851
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.08654
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.57374
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.4685
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy23_40.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.241098
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_139.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.95566
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_73.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.92175
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_34.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.41957
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_124.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.19827
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_99.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.03049
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_122.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.375
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_12.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.89791
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_101.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.8825
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy3_127.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.119
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -8.93349
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_121.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.54563
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_3.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.80081
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy3_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.0335
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_111.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.491
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_43.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.84034
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -17.2305
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_129.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.4691
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_41.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 28.6558
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_145.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.70442
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy26_107.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.00757
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.940047
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.6655
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.98647
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.23009
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.06428
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.51687
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_79.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.20161
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_77.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.68394
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy58_26.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.0495
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.25929
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.37589
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_138.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.04074
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_113.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.0721
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.57267
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy30_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.2114
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy3_135.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.38324
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.25385
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_160.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.17847
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_69.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.1082
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.0436
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_17.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.17568
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_121.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.00519
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_105.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.55218
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.60088
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_136.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.1218
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_119.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.2604
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_61.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.8374
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_26.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.2301
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.18315
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy7_146.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.52881
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_7.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.55826
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_30.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.13222
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.482588
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.01425
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_18.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.12152
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_4.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.95669
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy36_130.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.8937
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_135.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.7261
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_79.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.0188
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_40.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.49058
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy4_50.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.99013
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_110.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.81403
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_29.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.8774
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_123.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.95229
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_45.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.4384
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_114.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.01178
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.8654
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_43.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.8441
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy3_134.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.548
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.41445
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy25_11.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.10396
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.51701
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy6_5.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.68503
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy26_96.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.5818
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_133.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.488427
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_43.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.19423
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_117.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.92412
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.2705
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_102.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.52168
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_4.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.178529
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_82.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.33038
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_111.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.906118
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_49.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.69951
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_29.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.26287
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_71.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.80438
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy58_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.28623
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_24.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.2907
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy6_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.89381
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy41_129.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.0978
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy26_87.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.792068
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.45042
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.17794
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_81.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.38938
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_131.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.884626
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_90.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.93476
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_78.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.0127
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.33538
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_68.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.89588
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_82.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.23534
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.436807
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy7_154.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.4748
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_118.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.32551
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_106.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.43554
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy36_137.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5758
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.69214
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy42_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.48369
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy41_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.9258
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_12.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.59303
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_77.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.76434
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_143.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.362593
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_110.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.87719
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_61.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.40367
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy11_49.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.68253
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_64.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.14768
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_61.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.98826
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_62.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -11.353
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_149.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.7453
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_76.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.95177
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.7196
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_146.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.944255
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_104.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.25893
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_72.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.700354
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.54697
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_74.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.6325
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_112.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.38053
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_38.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.61251
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -5.40049
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy22_55.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.80618
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_115.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.42492
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.376353
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_38.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.11564
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_6.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.37065
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_63.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.11935
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_116.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.62673
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_84.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.67027
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_60.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.01294
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy16_90.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -9.3367
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy5_145.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.7139
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_106.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.623175
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.39726
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_8.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.58001
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_115.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.86824
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy9_13.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.8881
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.470774
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy1_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.27066
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy2_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.40392
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy14_116.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.72922
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_86.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.8002
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_123.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.7869
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy27_120.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.06428
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy57_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.2512
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy8_62.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.88402
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy13_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.94768
+Done
+
+
+Now processing ./3DRobot_set/1XT5A/decoy18_82.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 1.82593
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_20.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.70914
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy38_27.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.3558
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy26_80.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.0327
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy15_238.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.5335
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy10_68.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.43266
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy28_24.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.6633
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_64.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.70406
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy59_76.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.44885
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_37.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.69179
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_100.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 26.1941
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy46_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.4585
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy43_131.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.55475
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy26_33.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6357
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_130.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.20664
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_119.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.1138
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_24.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.5473
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_10.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.45917
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy43_95.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.80644
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy28_122.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.0845
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy25_23.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.1773
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_14.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.20475
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -3.0676
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy42_131.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.97586
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy1_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -10.6498
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_151.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 30.6358
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy41_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.80045
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy1_42.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.1185
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy26_69.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.3561
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy38_53.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.6737
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy3_44.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.2281
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy26_57.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.61392
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy51_76.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.7738
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy42_93.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.2395
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_40.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 18.0388
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_30.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.2923
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_76.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -2.51461
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy25_68.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.7996
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy45_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.3927
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy15_244.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.10742
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy38_150.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 25.7818
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_25.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.47838
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy15_201.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.76823
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_138.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.8698
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_6.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -0.891558
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.24119
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy1_16.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.79023
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy31_25.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 10.1913
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_169.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.6222
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_98.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.43557
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy35_42.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.35622
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy26_74.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.0589
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy15_220.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.7795
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy47_88.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.84607
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy45_52.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.67559
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_58.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.9505
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy42_106.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 28.3145
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.06452
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy3_49.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.1052
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_66.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 22.0849
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_126.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 13.3105
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy31_129.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.35843
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_56.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -1.44576
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_2.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -12.7424
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy10_109.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.5365
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy14_162.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 23.7379
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy51_94.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.4558
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy25_70.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 4.09015
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_124.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.9058
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_165.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.3004
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy45_45.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 24.2077
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy38_146.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 6.32868
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy41_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 7.06518
+Done
+
+
+Now processing ./3DRobot_set/2J73A/native.pdb
+
+Chain(s) that will be processed: A 
+
+Pseudo-energy = -19.7083
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy32_15.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.0271
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy3_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.47165
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy34_130.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 5.36406
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy57_111.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.8647
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy41_91.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 12.9331
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy11_9.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 9.10002
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy2_109.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 0.178597
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy15_233.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.96509
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy33_71.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -4.20317
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_174.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 8.14354
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy20_107.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 3.28956
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy31_21.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 16.9139
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy14_40.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 14.407
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_167.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 19.6661
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy50_73.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 36.6839
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy39_30.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.151
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy0_1.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -7.92088
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy35_97.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 2.83177
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy1_31.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = -6.60858
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy43_145.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 15.9985
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy51_84.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 17.0702
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_173.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 20.3174
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy9_182.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 11.5786
+Done
+
+
+Now processing ./3DRobot_set/2J73A/decoy14_155.pdb
+
+Chain(s) that will be processed:   
+
+Pseudo-energy = 21.9958
+Done
+

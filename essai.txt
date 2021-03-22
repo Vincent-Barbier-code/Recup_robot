@@ -1,0 +1,5 @@
+
+./scoring -l ./example/list2.txt -d ~/Desktop/Recup/dataset/myPotentials/
+
+/home/barbier/mypmfs/scoring -l ./list2.txt -d ~/Desktop/Recup/dataset/myPotentials/ > nrj.txt
+
