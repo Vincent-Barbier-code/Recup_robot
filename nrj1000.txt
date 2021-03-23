@@ -5,7 +5,7 @@ Now processing ./3DRobot_set/2J1VA/decoy11_161.pdb
 
 Chain(s) that will be processed:   
 
-Pseudo-energy = 
+Pseudo-energy =
 Done
 
 
@@ -13,7 +13,7 @@ Now processing ./3DRobot_set/2J1VA/decoy2_63.pdb
 
 Chain(s) that will be processed:   
 
-Pseudo-energy = 2.56359
+Pseudo-energy = 
 Done
 
 

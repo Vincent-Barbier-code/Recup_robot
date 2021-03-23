@@ -3,3 +3,6 @@
 
 /home/barbier/mypmfs/scoring -l ./list1000.txt -d ~/Desktop/Recup/dataset/myPotentials/ > nrj1000.txt
 
+find . -name *list.txt > list.txt
+
+
