@@ -1,0 +1,14 @@
+barbier@rpbs-priv26:~/mypmfs/3Drobot/git$ git push Recup_robot master
+
+barbier@rpbs-priv26:~/mypmfs/3Drobot/git$ git commit -m "Ajout traitementRMSD"
+
+barbier@rpbs-priv26:~/mypmfs/3Drobot/git$ git status
+
+barbier@rpbs-priv26:~/mypmfs/3Drobot/git$ git remote
+Recup_robot
+mygit
+barbier@rpbs-priv26:~/mypmfs/3Drobot/git$ git push Recup_robot master
+
+barbier@rpbs-priv26:~/mypmfs/3Drobot/git$ git commit
+
+git add .

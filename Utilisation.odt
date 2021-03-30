@@ -1,0 +1,6 @@
+﻿Telécharger les pdbs avec Recup.py et une liste de pdb
+utiliser le training de mypfms sur nos pdbs en tout atomes (Myref), puis training en CB ayant pour référence le training du tout atome(Mypotential).
+Ensuite écrire les chemins des pdbs d’une liste à tester dans une liste(liste_nrj.txt).
+(chemin_decoys) Utiliser Nrj.py pour récupérer les energies des pdbs associés dans un fichier txt sous forme de liste (nrj.txt).
+(chemin_RMSD) Récupérer les Rmsd fournit expérimentalement avec RecupRMSD.py renvoi un fichier txt sous forme de liste les energies associés aux noms des pdb(Resultat_nrj.txt).
+Enfin utiliser R pour observer corrélation ou non.

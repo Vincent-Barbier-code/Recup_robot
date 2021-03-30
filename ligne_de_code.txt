@@ -5,4 +5,8 @@
 
 find . -name *list.txt > list.txt
 
+./training -l ~/Desktop/Recup/independent_training.txt -d ~/Desktop/Recup/dataset -r allatom -o myRef -W
+
+./training -l ~/Desktop/Recup/independent_training.txt -d ~/Desktop/Recup/dataset -R myRef/frequencies.ref -r CB -o myPotentials
+
 

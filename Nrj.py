@@ -4,7 +4,7 @@ pdb_dec = []
 i=0
 dic = {}
 cmp = 0
-#  Parsing recupère nom pdb_decoy puis pseudo-Energy
+#  Parsing recupere nom pdb_decoy puis pseudo-Energy
 if len(sys.argv) != 3:
     sys.exit("ERREUR : il faut exactement deux arguments.")
 print(sys.argv[1])
