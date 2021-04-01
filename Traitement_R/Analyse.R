@@ -4,13 +4,19 @@
 #library(Hmisc)
 Resultat_RMSD <- read.table("./Resultat_RMSD", row.names=1, quote="\"", comment.char="")
 Resultat_nrj <- read.table("./Resultat_nrjCB.txt", row.names=1, quote="\"", comment.char="")
-
+table_TM <- read.table("./Resultat_TMscore", row.names=1, quote="\"", comment.char="")
 table =(cbind(Resultat_nrj,Resultat_RMSD))
 
-
-
-
+colnames(table_TM) = c("rmsd","TM-score","MawSub","GDT-TS","GDT-HA")
 colnames(table) = c("nrj","rmsd")
+
+for (i in len(nrjx2$RMSDrobot)) {
+  difference =  abs(table$rmsd[i] - table_TM$rmsd[i])
+  if(difference > 0.02){
+    print(rownames(table$rmsd[i]))
+  }
+}
+
 
 
 plot(table$nrj, table$rmsd,xlab = "nrj", ylab = "rmsd")
@@ -55,7 +61,54 @@ for (i in 1:200) {
   dev.off()
 }
 
-  cor(table$nrj[], table$rmsd, method=c("pearson", "kendall", "spearman"))
+
+plot(table_TM$TM-score, table_TM$rmsd,xlab = "nrj", ylab = "rmsd")
+text(x = 50,y = 600,col = "red",labels = sprintf("r = %3.2f",cor(table$nrj,table$rmsd)))
+modele = lm(table_TM$TM-score ~ table_TM$rmsd)
+summary(modele)
+modele = lm(table_TM$TM-score ~ table_TM$rmsd)
+abline(modele, col = "red", lwd = 2)
+
+par(mfrow = c(2,2))
+
+# TM
+x=0
+y=0
+Regression <- function(ligne1,ligne2,stringnom){
+  for (i in 1:200) {
+    a = toString(i)
+    b = paste(stringnom,a,".png",sep = "")
+    png(b)
+    x <- (i-1)*301
+    y <- i *301
+    print(x)
+    pearson = cor(ligne1[x:y], ligne2[x:y], method="pearson")
+    kendall = cor(ligne1[x:y], ligne2[x:y], method="kendall")
+    spearman = cor(ligne1[x:y], ligne2[x:y], method="spearman")
+    
+    pearson = round(pearson,4)
+    kendall = round(kendall,4)
+    spearman = round(spearman,4)
+    
+    plot(ligne1[x:y], ligne2[x:y],xlab = "nrj", ylab = "rmsd")
+    
+    mtext(text = pearson,adj = 0, side = 1, line = 4)
+    #mtext(text = "            ",adj = 0, side = 1, line = 4)
+    mtext(text = kendall,adj = 0.5, side = 1, line = 4)
+    mtext(text = spearman,adj = 1, side = 1, line = 4)
+    help(mtext)
+    reglineaire = lm(ligne1 ~ ligne2)
+    coeff = coefficients(reglineaire)
+    
+    # Equation de la droite de regression : 
+    eq = paste0("y = ", round(coeff[2],1), "*x ", round(coeff[1],1))
+    abline(reglineaire, col = "red", lwd = 2)
+    dev.off()
+  }
+}
+Regression(table$nrj,table$rmsd,"test")
+
+cor(table$nrj[], table$rmsd, method=c("pearson", "kendall", "spearman"))
 
 cor(table$nrj, table$rmsd, method="pearson")
 
