@@ -2,79 +2,43 @@
 #install.packages("pheatmap")
 #library(heatmaply)
 #library(Hmisc)
-Resultat_RMSD <- read.table("./Resultat_RMSD", row.names=1, quote="\"", comment.char="")
-Resultat_nrj <- read.table("./Resultat_nrjCB.txt", row.names=1, quote="\"", comment.char="")
-table_TM <- read.table("./Resultat_TMscore", row.names=1, quote="\"", comment.char="")
-table =(cbind(Resultat_nrj,Resultat_RMSD))
+Resultat_RMSD <- read.table("./Resultat_RMSD", quote="\"", comment.char="")
+Resultat_nrj <- read.table("./Resultat_nrjCB.txt", quote="\"", comment.char="")
+table_TM <- read.table("./Resultat_TMscore.txt", quote="\"", comment.char="")
+table = merge(Resultat_nrj,Resultat_RMSD,by = "V1")
+table = merge(table,table_TM,by = "V1")
 
-colnames(table_TM) = c("rmsd","TM-score","MawSub","GDT-TS","GDT-HA")
-colnames(table) = c("nrj","rmsd")
 
-for (i in len(nrjx2$RMSDrobot)) {
-  difference =  abs(table$rmsd[i] - table_TM$rmsd[i])
+table = table[,-1]
+
+colnames(table) = c("nrj","rmsd_exp","rmsd_hyp","TM-score","MawSub","GDT-TS","GDT-HA")
+
+liste_mauvais = list()
+liste_bon = list()
+for (i in 1:length(table$rmsd_exp)) {
+  difference = 0
+  difference =  abs(table$rmsd_exp[i] - table$rmsd_hyp[i])
+  print(difference)
   if(difference > 0.02){
-    print(rownames(table$rmsd[i]))
+    liste1 <- list(row.names(table)[i])
+    liste_mauvais <- append(liste_mauvais,liste1)
+  }
+  else{
+    liste1 <- list(row.names(table)[i]) 
+    liste_bon <- append(liste_bon,liste1)
   }
 }
 
-
-
-plot(table$nrj, table$rmsd,xlab = "nrj", ylab = "rmsd")
+plot(table$nrj, table$`TM-score`,xlab = "nrj", ylab = "rmsd")
 text(x = 50,y = 600,col = "red",labels = sprintf("r = %3.2f",cor(table$nrj,table$rmsd)))
-modele = lm(table$nrj ~ table$rmsd)
+modele = lm(table$nrj ~ table$`TM-score`,data = table)
+plot(table$nrj~table$`TM-score`,pch = 16,data = table)
+abline(modele, col = "red",lwd = 2)
 summary(modele)
-modele = lm(table$nrj ~ table$rmsd)
-abline(modele, col = "red", lwd = 2)
-
-par(mfrow = c(2,2))
-
-x=0
-y=0
-for (i in 1:200) {
-  a = toString(i)
-  b = paste("Nrj-Rmsd_plot",a,".png",sep = "")
-  png(b)
-  x <- (i-1)*301
-  y <- i *301
-  print(x)
-  pearson = cor(table$nrj[x:y], table$rmsd[x:y], method="pearson")
-  kendall = cor(table$nrj[x:y], table$rmsd[x:y], method="kendall")
-  spearman = cor(table$nrj[x:y], table$rmsd[x:y], method="spearman")
-  
-  pearson = round(pearson,4)
-  kendall = round(kendall,4)
-  spearman = round(spearman,4)
-  
-  plot(table$nrj[x:y], table$rmsd[x:y],xlab = "nrj", ylab = "rmsd")
-
-  mtext(text = pearson,adj = 0, side = 1, line = 4)
-  #mtext(text = "            ",adj = 0, side = 1, line = 4)
-  mtext(text = kendall,adj = 0.5, side = 1, line = 4)
-  mtext(text = spearman,adj = 1, side = 1, line = 4)
-  help(mtext)
-  reglineaire = lm(table$nrj ~ table$rmsd)
-  coeff = coefficients(reglineaire)
-  
-  # Equation de la droite de regression : 
-  eq = paste0("y = ", round(coeff[2],1), "*x ", round(coeff[1],1))
-  abline(reglineaire, col = "red", lwd = 2)
-  dev.off()
-}
-
-
-plot(table_TM$TM-score, table_TM$rmsd,xlab = "nrj", ylab = "rmsd")
-text(x = 50,y = 600,col = "red",labels = sprintf("r = %3.2f",cor(table$nrj,table$rmsd)))
-modele = lm(table_TM$TM-score ~ table_TM$rmsd)
-summary(modele)
-modele = lm(table_TM$TM-score ~ table_TM$rmsd)
-abline(modele, col = "red", lwd = 2)
-
-par(mfrow = c(2,2))
-
 # TM
 x=0
 y=0
-Regression <- function(ligne1,ligne2,stringnom){
+Regression <- function(ligne1,ligne2,stringnom,xnom,ynom){
   for (i in 1:200) {
     a = toString(i)
     b = paste(stringnom,a,".png",sep = "")
@@ -90,30 +54,36 @@ Regression <- function(ligne1,ligne2,stringnom){
     kendall = round(kendall,4)
     spearman = round(spearman,4)
     
-    plot(ligne1[x:y], ligne2[x:y],xlab = "nrj", ylab = "rmsd")
+    # Equation de la droite de regression : 
+    modele = lm(ligne1[x:y] ~ ligne2[x:y],data = table)
+    plot(ligne1[x:y] ~ ligne2[x:y], pch = 16, data = table,xlab = xnom, ylab = ynom)
+    abline(modele, col = "red",lwd = 2)
     
     mtext(text = pearson,adj = 0, side = 1, line = 4)
-    #mtext(text = "            ",adj = 0, side = 1, line = 4)
     mtext(text = kendall,adj = 0.5, side = 1, line = 4)
     mtext(text = spearman,adj = 1, side = 1, line = 4)
-    help(mtext)
-    reglineaire = lm(ligne1 ~ ligne2)
-    coeff = coefficients(reglineaire)
     
-    # Equation de la droite de regression : 
-    eq = paste0("y = ", round(coeff[2],1), "*x ", round(coeff[1],1))
-    abline(reglineaire, col = "red", lwd = 2)
     dev.off()
   }
 }
-Regression(table$nrj,table$rmsd,"test")
+#Regression(table$nrj,table$`TM-score`,"Reg_nrj-TMscore","TM-score","Pseudo-Energie")
+Regression(table$nrj,table$rmsd_exp,"Reg_nrj-Rmsd","Rmsd","Pseudo-Energie")
 
-cor(table$nrj[], table$rmsd, method=c("pearson", "kendall", "spearman"))
 
-cor(table$nrj, table$rmsd, method="pearson")
 
-cor(table$nrj, table$rmsd, method="kendall")
-cor(table$nrj, table$rmsd, method="spearman")
+
+Acc = correct/tot
+Acc <- function(){
+  for (i in 1:length(table$`TM-score`-1)) {
+    for (y in 1:length(table$`TM-score`-i)) {
+      Delta_TM = table$`TM-score[i]` - table$`TM-score`[y+1])
+      print(Delta_TM)
+      print(table$`TM-score`[i])
+    }
+  }
+}
+table$`TM-score`[2]
+ Acc()
 
 # 
 # 
@@ -158,8 +128,7 @@ cor(table$nrj, table$rmsd, method="spearman")
 # col <- colorRampPalette(c("#BB4444", "#EE9988", "#FFFFFF", "#77AADD", "#4477AA"))
 # 
 # corrplot(M, method="color", col=col(200), 
-#          type="upper",
-#          addCoef.col = "black") 
+#          type="uppel = "black") 
 # 
 # 
 # 
@@ -169,4 +138,5 @@ cor(table$nrj, table$rmsd, method="spearman")
 # cor(Resultat_nrj, Resultat_RMSD, method = c("pearson", "kendall", "spearman"))
 # 
 # help(scale)
-# 
+# r",
+#          addCoef.co
